@@ -1,1 +1,1 @@
-A webpage designed using only html and css styles.
+A webpage designed using  html and css styles.
